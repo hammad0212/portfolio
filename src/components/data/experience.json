@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "MERN STACK  - Intern",
+    "organisation": "Netflix",
+    "startDate": "June-2024",
+    "endDate": "Present",
+    "location": "Ahmedabad, India",
+    "experiences": [
+      "Worked on React.js-Node.js Project",
+      "Throughout my training, I have honed my skills in front-end and back-end development, working on various projects that demonstrate my ability to integrate complex systems and deliver robust solutions. My attention to detail, strong problem-solving abilities, and commitment to continuous learning enable me to stay updated with the latest industry trends and best practices. "
+    ],
+    "imageSrc": "company/nnt.jpg"
+  }
+]
